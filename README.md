@@ -18,11 +18,11 @@ The devices were developed using a combination of software and hardware technolo
 
 - Python: Python programming language was utilized for developing the software interface for controlling the equipment, adjusting parameters, and collecting data.
 - Arduino: Arduino microcontrollers were employed to interface with sensors, regulate furnace temperatures, and control various components of the equipment.
-- EagleCad: EagleCad was used for designing the electronic circuits and schematics for the equipment, ensuring optimal functionality and performance.
-- Electronic Devices: Various electronic components and devices were integrated into the equipment to facilitate data collection, temperature regulation, and communication with external systems.
+- EagleCad: It was used for designing the electronic circuits and schematics for the equipment, ensuring optimal functionality and performance.
+- Electronic Devices: Various electronic components and devices were integrated into the equipment to facilitate data collection, temperature regulation, and communication with external systems. Some of them was Arduino Nano, Relays, thermocouples, Nextion HMI and some others.
 
 ### About Dinntec
-This project is developed and distributed by Dinntec, a company based in Colombia specializing in the implementetation of innovative technology solutions. Dinntec is committed to providing high-quality educational resources to enhance learning experiences in various fields, including physics and thermodynamics.
+This project was developed and distributed by Dinntec, a company based in Colombia specializing in the implementetation of innovative technology solutions. Dinntec is committed to providing high-quality educational resources to enhance learning experiences in various fields, including physics and thermodynamics.
 
 ### Images
 ![horno_1](./images/Diagrama.png)&nbsp;
